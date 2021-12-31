@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yyousse3, my full name is Youssef M Youssef
-- 👀 I’m interested in backend programming using languages such as python and java, and frontend using HTML and CSS
+- 👀 I’m interested in fullstack programming
 - 🌱 I’m currently learning Javascript and MERN
 - 📫 How to reach me: https://www.linkedin.com/in/yyousse3/
 
