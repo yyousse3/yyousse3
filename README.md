@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yyousse3, my full name is Youssef M Youssef
 - 👀 I’m interested in fullstack programming
 - 🌱 I’m currently learning Javascript and MERN
-- 📫 How to reach me: https://www.linkedin.com/in/yyousse3/
+- 📫 How to reach me: https://www.linkedin.com/in/yyousse3/ , y.yyousse3@gmail.com
 
 <!---
 yyousse3/yyousse3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
